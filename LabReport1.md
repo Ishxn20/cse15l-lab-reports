@@ -33,7 +33,7 @@ Step 4: Running some commands!!!
 
 ![Image](C.png)
 
-* Here are some commands to play around with!
+**Here are some commands to play around with!**
 
 ```
 $ pwd //prints path to home directory
