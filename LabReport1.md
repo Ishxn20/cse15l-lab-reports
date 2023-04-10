@@ -29,3 +29,7 @@ Step 3: Remotely Connecting (After changing your passcode)
 Step 4: Running some commands!!!
 
 ![Image](C.png)
+
+* Try running various commands to see what sort of output you get. You could try commands such as cd, ls, cp, pwd and more!
+* *ls* will show you a list of all available commands, *cd* will change your directory and *pwd* will display your current working directory.
+
