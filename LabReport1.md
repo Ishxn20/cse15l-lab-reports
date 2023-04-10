@@ -4,3 +4,5 @@
 
 Step 1: Download VS Code
 
+![Image](VS.png)
+
