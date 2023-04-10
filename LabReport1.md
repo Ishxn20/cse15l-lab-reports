@@ -9,7 +9,7 @@ Step 1: Download VS Code
 * First Step is to go to the website: [Link](https://code.visualstudio.com) 
 * Click on the big blue **Download** button on the top right side of the screen
 
-![Image]()
+![Image](VS 1.png)
 
 * Download the correct version of the VS code for your operating system
 * After setting up VS code..your VS code should open up like in the photo above.
