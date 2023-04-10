@@ -30,6 +30,15 @@ Step 4: Running some commands!!!
 
 ![Image](C.png)
 
-* Try running various commands to see what sort of output you get. You could try commands such as cd, ls, cp, pwd and more!
-* *ls* will show you a list of all available commands, *cd* will change your directory and *pwd* will display your current working directory.
+* Here are some commands to play around with!
 
+```
+$ pwd //prints path to home directory
+$ cd //changes directory
+$ cd.. //goes back on directory
+$ ls //lists what's inside the directory
+$ ls -at //lists file names in directory
+$ ls -lat //lists of files in directory in most recent order
+$ cp //copies a file or directory
+$ cat //displays what's in the file
+```
