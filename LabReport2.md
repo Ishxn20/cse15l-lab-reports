@@ -36,7 +36,31 @@
 ```
 * The SYMPTOM:
 
-![Image]()
+![Image](Screenshot 2023-04-22 at 9.27.37 AM.png)
+
+* Before Code (Bug):
+
+```
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+```
+
+* After Code (No Bug):
+```
+  static void reverseInPlacefixed(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      int t = arr[i];
+      arr[i] = arr[arr.length - i - 1];
+      arr[arr.length - i - 1] = t;
+    }
+  }
+```
+
+
+
 ***
 
 **Part 3**
