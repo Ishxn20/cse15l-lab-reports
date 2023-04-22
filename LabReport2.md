@@ -1,8 +1,8 @@
-# Part 1
+## Part 1
 
 ***
 
-# Part 2
+## Part 2
 
 * Buggy Program: ArrayExamples.java
 * Method: reverseInPlace
@@ -63,7 +63,7 @@ In the buggy code, we are unable the reverse the second half of the list because
 
 ***
 
-# Part 3
+## Part 3
 
 Something I learnt and found really interesting was creating and working with our very own servers in Lab 2. I use URL's and access online servers all the time but I have never actually taken the time to understand how each specific URL commands can be used to do different things. Trying to understand the code behind how ther server we ran worked and messing around with different commands was quite riveting. In Lab 3, I liked the way we went about testing. The process of understanding various codes, testing them with different inputs and then fixing them was a challenging yet rewarding process. It helped me understand how ArrayLists and LinkedLists work more thoroughly.
 
