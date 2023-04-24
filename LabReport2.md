@@ -54,7 +54,7 @@ class StringServer {
 * Values of relevant fields:
 1. There is a field *s* whose value is an empty string.
 2. There is field *parameters* which is a string of arrays and holds parts of the url after I split it.
-* The value of *s* changes to hold the words we enter in which is "Hello" and "How are you* in this case.
+* The value of *s* changes to hold the words we enter in which is "Hello" and "How are you" in this case.
 
 ## Part 2
 
