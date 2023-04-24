@@ -73,8 +73,8 @@ class StringServer {
 * Input that doesn’t induce a failure:
 
 ```
-	@Test 
-	public void testReverseInPlace() {
+    @Test 
+    public void testReverseInPlace() {
     int[] input1 = { 3 };
     ArrayExamples.reverseInPlace(input1);
     assertArrayEquals(new int[]{ 3 }, input1);
@@ -113,7 +113,7 @@ class StringServer {
   }
 ```
 
-In the buggy code, we are unable the reverse the second half of the list because the logic of the code changes the first element in the list and iterates through the entire list. This doesn't allow us to reverse the last element of the list. The above code fixes this issue because it creates a variable t which allows us to store the element we want to reverse at the correct index. Moreover, we only iterate through half the list to ensure all elements get reversed.
+In the buggy code, we are unable the reverse the second half of the list correctly. This is because the code swaps the first element of the list for the last element and it is then unable to swap the last element for the first element because the we lose the first element in the list (we change it with the last element of the list). The above code fixes this issue because it creates a sort of temporary variable t which allows us to store the element we want to reverse at the correct index without losing any of the data of the list. Moreover, we only iterate through half of the list to ensure all elements get reversed.
 
 ## Part 3
 
