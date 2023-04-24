@@ -38,8 +38,23 @@ class StringServer {
 }
 
 ```
-![Image](Out.png)
+![Image](bro.png)
 
+* Methods called: *handleRequest*
+* Relevant arguments: *url*
+* Values of relevant fields:
+1. There is a field *s* whose value is an empty string.
+2. There is field *parameters* which is a string of arrays and holds parts of the url after I split it.
+* The value of *s* changes to hold the words we enter in which is "Hello" in this case.
+
+![Image](bro1.png)
+
+* Methods called: *handleRequest*
+* Relevant arguments: *url*
+* Values of relevant fields:
+1. There is a field *s* whose value is an empty string.
+2. There is field *parameters* which is a string of arrays and holds parts of the url after I split it.
+* The value of *s* changes to hold the words we enter in which is "Hello" and "How are you* in this case.
 
 ## Part 2
 
