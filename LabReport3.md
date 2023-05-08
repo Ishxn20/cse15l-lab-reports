@@ -34,6 +34,8 @@ Output 2:
 
 ![Image](ss2.png)
 
+* Source: Website - https://linuxize.com/post/less-command-in-linux/
+
 ## less -p [String] [File path]
 
 **What does it do?**
@@ -67,6 +69,8 @@ Ishans-MacBook-Pro-2:technical ishanvaish$ less -p but 911report/chapter-2.txt
 Output 2:
 
 ![Image](ss4.png)
+
+* Source: Website - https://phoenixnap.com/kb/less-command-in-linux
 
 ## less -X [File path]
 
@@ -103,22 +107,24 @@ Output 2:
 
 ![Image](ss6.png)
 
+* Source - ChatGPT
+
 ## less -X [File path]
 
 **What does it do?**
 
-Leaves the contents of the file in the terminal after exiting.
+It squeezes multiple blank lines from a text file into one blank line.
 
 **How does it help?**
 
-Useful for when you need to reference back to something in the file when you are in the terminal. 
+Removing multiple blank lines allows less to show more content.
 
 **Example 1**
 
 Input 1:
 
 ```
-Ishans-MacBook-Pro-2:technical ishanvaish$ less -X 911report/chapter-1.txt
+Ishans-MacBook-Pro-2:stringsearch ishanvaish$ less -s words.txt
 
 ```
 
@@ -130,7 +136,7 @@ Output 1:
 Input 2:
 
 ```
-Ishans-MacBook-Pro-2:technical ishanvaish$ less -X 911report/chapter-2.txt
+Ishans-MacBook-Pro-2:stringsearch ishanvaish$ less -s words3.txt
 
 ```
 
@@ -138,11 +144,5 @@ Output 2:
 
 ![Image](ss8.png)
 
-
-
-
-
-
-
-
+* Source - ChatGPT
   
