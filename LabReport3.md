@@ -59,6 +59,7 @@ Output 1:
 
 ![Image](ss3.png)
 
+**Example 2**
 
 Input 2:
 
@@ -95,6 +96,7 @@ Output 1:
 
 ![Image](ss5.png)
 
+**Example 2**
 
 Input 2:
 
@@ -130,8 +132,9 @@ Ishans-MacBook-Pro-2:stringsearch ishanvaish$ less -s words.txt
 
 Output 1:
 
-![Image](ss7.png)
+![Image](ss8.png)
 
+**Example 2**
 
 Input 2:
 
@@ -142,7 +145,6 @@ Ishans-MacBook-Pro-2:stringsearch ishanvaish$ less -s words3.txt
 
 Output 2:
 
-![Image](ss8.png)
+![Image](ss7.png)
 
-* Source - ChatGPT
-  
+* Source: Website - https://phoenixnap.com/kb/less-command-in-linux
