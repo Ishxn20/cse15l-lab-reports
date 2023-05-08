@@ -1,4 +1,4 @@
-## less -N <File Name>
+## less -N [File Name]
   
   
   
