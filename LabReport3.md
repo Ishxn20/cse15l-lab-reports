@@ -55,7 +55,7 @@ Ishans-MacBook-Pro-2:technical ishanvaish$ less -p Boston 911report/chapter-1.tx
 
 Output 1:
 
-![Image](ss1.png)
+![Image](ss3.png)
 
 
 Input 2:
@@ -66,7 +66,41 @@ Ishans-MacBook-Pro-2:technical ishanvaish$ less -p but 911report/chapter-2.txt
 
 Output 2:
 
-![Image](ss2.png)
+![Image](ss4.png)
+
+## less -X [File path]
+
+**What does it do?**
+
+Leaves the contents of the file in the terminal after exiting.
+
+**How does it help?**
+
+Useful for when you need to reference back to something in the file when you are in the terminal. 
+
+**Example 1**
+
+Input 1:
+
+```
+Ishans-MacBook-Pro-2:technical ishanvaish$ less -p Boston 911report/chapter-1.txt
+
+```
+
+Output 1:
+
+![Image](ss5.png)
+
+
+Input 2:
+
+```
+Ishans-MacBook-Pro-2:technical ishanvaish$ less -p but 911report/chapter-2.txt
+```
+
+Output 2:
+
+![Image](ss6.png)
 
 
 
