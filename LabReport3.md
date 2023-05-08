@@ -19,7 +19,7 @@ Ishans-MacBook-Pro-2:stringsearch ishanvaish$ less -N words.txt
 
 Output 1:
 
-![Image]()
+![Image](ss1.png)
 
 
 Input 2:
@@ -31,7 +31,7 @@ Ishans-MacBook-Pro-2:technical ishanvaish$ less -N 911report/chapter-1.txt
 
 Output 2:
 
-![Image]()
+![Image](ss2.png)
 
 
 
