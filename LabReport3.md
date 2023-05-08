@@ -126,8 +126,7 @@ Removing multiple blank lines allows less to show more content.
 Input 1:
 
 ```
-Ishans-MacBook-Pro-2:stringsearch ishanvaish$ less -s words.txt
-
+Ishans-MacBook-Pro-2:technical ishanvaish$ less -s 911report/chapter-1.txt
 ```
 
 Output 1:
@@ -139,7 +138,7 @@ Output 1:
 Input 2:
 
 ```
-Ishans-MacBook-Pro-2:stringsearch ishanvaish$ less -s words3.txt
+Ishans-MacBook-Pro-2:technical ishanvaish$ less -s 911report/chapter-2.txt
 
 ```
 
