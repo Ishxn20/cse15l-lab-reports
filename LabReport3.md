@@ -131,7 +131,7 @@ Ishans-MacBook-Pro-2:technical ishanvaish$ less -s 911report/chapter-1.txt
 
 Output 1:
 
-![Image](ss8.png)
+![Image](sss8.png)
 
 **Example 2**
 
@@ -144,6 +144,6 @@ Ishans-MacBook-Pro-2:technical ishanvaish$ less -s 911report/chapter-2.txt
 
 Output 2:
 
-![Image](ss7.png)
+![Image](sss7.png)
 
 * Source: Website - https://phoenixnap.com/kb/less-command-in-linux
