@@ -1,9 +1,11 @@
 ## less -N [File Name]
 
 **What does it do?**
+
 -N gives the line numbers in the less command output.
 
 **How does it help?**
+
 This is extremely helpful to reference certain lines in the file, because you no longer have to count each line manually.
 
 **Example 1**
