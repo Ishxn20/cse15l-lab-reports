@@ -59,7 +59,7 @@ Exact keys pressed (in order)
 4. *```<esc>```* (Switches back to normal mode)
 5. *```<:wq>```* (Save changes)
 
-## Step 8: Demonstrating the tests succeed
+## Step 8: Demonstrating that the tests succeed
 
 ![Image](S.png)
 
