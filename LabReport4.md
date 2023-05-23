@@ -20,10 +20,42 @@ Exact keys pressed (in order)
 
 Exact keys pressed (in order)
 
-1. *```<Command-C><Command-V>```* (Copy-paste the link for the fork)
+1. *```<Command-C><Command-V>```* (Copy-pasted the link for the fork)
 2. *```<enter>```* (Executes the command)
 
 ## Step 6: Demonstrating that the tests fail
+
+![Image](D.png)
+
+* I used the ```ls``` commands to see all the directories.
+* I then used the ```cd``` command to switch into the lab7 directory.
+* I used the command ```bash test.sh``` to run the tests for the ListExamples.java file.
+
+Exact keys pressed (in order)
+
+1. *```<enter>```* (Executes the command)
+
+## Step 7: Editing the code file
+
+![Image](E.png)
+
+* I used the ```vim ListExamples.java``` to allow me to edit the file.
+* I then used the ```cd``` command to switch into the lab7 directory.
+* I used the command ```bash test.sh``` to run the tests for the ListExamples.java file.
+
+Exact keys pressed (in order)
+
+1. *```<I>```* (Switch from normal mode to insert mode)
+2. *```37j```* (Moves cursor to cursor down 37 times)
+3. *```<enter>```* (Executes the command)
+
+## Step 7: Demonstrating that the tests fail
+
+
+
+
+
+
 
 
 
