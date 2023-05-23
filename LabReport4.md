@@ -9,7 +9,7 @@
 
 Exact keys pressed (in order)
 
-* *```<up><up>```*
+* *```<up><up>```* (Used to move to the command for ieng6)
 * *```<enter>```*
 
 
