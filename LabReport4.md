@@ -59,9 +59,28 @@ Exact keys pressed (in order)
 4. *```<esc>```* (Switches back to normal mode)
 5. *```<:wq>```* (Save changes)
 
-## Step 7: Demonstrating the tests succeed
+## Step 8: Demonstrating the tests succeed
 
 ![Image](S.png)
+
+* I used the ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command to create the class file.
+* Then, I used```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command to run the file.
+
+Exact keys pressed (in order)
+
+1.*```<Command-C><Command-V>```* (Copy-pasted the command)
+2. *```<enter>```* (Executes the command)
+3. 1. *```<Command-C><Command-V>```* (Copy-pasted the command)
+4. *```<enter>```* (Executes the command)
+
+## Step 9: Commit and Push
+
+![Image](P.png)
+
+
+
+
+
 
 
 
