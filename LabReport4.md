@@ -5,8 +5,14 @@
 ![Image]()
 
 1. I used the command ```ssh cs15lsp23sk@ieng6.ucsd.edu``` to login into my ieng6 account.
-2. I did'nt have to type in my password as I have configured my account using the SSH keys.
-3. 
+2. I didn't have to type in my password as I have configured my account using the SSH keys.
+
+Exact keys pressed (in order)
+
+* ```<up>, <up>```
+* ```<enter>```
+
+
 
 
 
