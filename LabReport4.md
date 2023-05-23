@@ -25,6 +25,7 @@ Exact keys pressed (in order)
 
 ## Step 6: Demonstrating that the tests fail
 
+![Image](D1.png)
 ![Image](D.png)
 
 * I used the ```ls``` commands to see all the directories.
