@@ -68,10 +68,10 @@ Exact keys pressed (in order)
 
 Exact keys pressed (in order)
 
-1.*```<Command-C><Command-V>```* (Copy-pasted the command)
+1. *```<Command-C><Command-V>```* (Copy-pasted the command)
 2. *```<enter>```* (Executes the command)
-3. 1. *```<Command-C><Command-V>```* (Copy-pasted the command)
-4. *```<enter>```* (Executes the command)
+4. *```<Command-C><Command-V>```* (Copy-pasted the command)
+5. *```<enter>```* (Executes the command)
 
 ## Step 9: Commit and Push
 
