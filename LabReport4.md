@@ -9,8 +9,8 @@
 
 Exact keys pressed (in order)
 
-* ```<up>, <up>```
-* ```<enter>```
+* *```<up><up>```*
+* *```<enter>```*
 
 
 
