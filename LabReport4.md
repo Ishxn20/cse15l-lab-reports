@@ -30,9 +30,9 @@ Exact keys pressed (in order)
 
 * I used the ```ls``` command to see all the directories.
 * I then used the ```cd``` command to switch into the lab7 directory.
-* I then used the ```pwd``` command to check if I am in the current directory.
+* I then used the ```pwd``` command to check if I am in the correct directory.
 * I then used the ```ls``` command to see all the files.
-* I used the command ```bash test.sh``` to run the tests for the ListExamples.java file.
+* Lastly, I used the command ```bash test.sh``` to run the tests for the ListExamples.java file.
 
 Exact keys pressed (in order)
 
