@@ -16,7 +16,7 @@ Exact keys pressed (in order)
 
 ![Image](clone.png)
 
-* I used the command ```git clone https://github.com/ucsd-cse15l-s23/lab7``` to clone the fork.
+* I used the command ```git clone https://github.com/Ishxn20/lab7``` to clone the fork.
 
 Exact keys pressed (in order)
 
@@ -30,6 +30,8 @@ Exact keys pressed (in order)
 
 * I used the ```ls``` command to see all the directories.
 * I then used the ```cd``` command to switch into the lab7 directory.
+* I then used the ```pwd``` to check if I am in the current directory.
+* I then used the ```ls``` to see all the files.
 * I used the command ```bash test.sh``` to run the tests for the ListExamples.java file.
 
 Exact keys pressed (in order)
@@ -37,22 +39,29 @@ Exact keys pressed (in order)
 1. *```<enter>```* (Executes the command)
 2. *```<enter>```* (Executes the command)
 3. *```<enter>```* (Executes the command)
+4. *```<enter>```* (Executes the command)
+5. *```<enter>```* (Executes the command)
 
 ## Step 7: Editing the code file
 
 ![Image](E.png)
 
 * I used the ```vim ListExamples.java``` to allow me to edit the file.
-* I then used the ```cd``` command to switch into the lab7 directory.
-* I used the command ```bash test.sh``` to run the tests for the ListExamples.java file.
+* I then went into edit mode.
+* I located the error and made the necessary change. (*changed index1 --> index2*)
+* I saved the file 
 
 Exact keys pressed (in order)
 
-1. *```<I>```* (Switch from normal mode to insert mode)
-2. *```37j```* (Moves cursor to cursor down 37 times)
-3. *```<enter>```* (Executes the command)
+1. *```<I>```* (Switches from normal mode to insert mode)
+2. *```<37j>```* (Moves cursor to cursor down 37 times to line with the incorrect code)
+3. *```<Delete><2>```* (index1 --> index2)
+4. *```<esc>```* (Switches back to normal mode)
+5. *```<:wq>```* (Save changes)
 
-## Step 7: Demonstrating that the tests fail
+## Step 7: Demonstrating the tests succeed
+
+![Image](S.png)
 
 
 
