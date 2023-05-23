@@ -28,13 +28,15 @@ Exact keys pressed (in order)
 ![Image](D1.png)
 ![Image](D.png)
 
-* I used the ```ls``` commands to see all the directories.
+* I used the ```ls``` command to see all the directories.
 * I then used the ```cd``` command to switch into the lab7 directory.
 * I used the command ```bash test.sh``` to run the tests for the ListExamples.java file.
 
 Exact keys pressed (in order)
 
 1. *```<enter>```* (Executes the command)
+2. *```<enter>```* (Executes the command)
+3. *```<enter>```* (Executes the command)
 
 ## Step 7: Editing the code file
 
