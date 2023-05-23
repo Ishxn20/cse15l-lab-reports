@@ -64,7 +64,7 @@ Exact keys pressed (in order)
 ![Image](S.png)
 
 * I used the ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java``` command to create the class file.
-* Then, I used```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command to run the file.
+* Then, I used```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests``` command to run that file.
 
 Exact keys pressed (in order)
 
