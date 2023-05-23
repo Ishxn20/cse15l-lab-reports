@@ -77,9 +77,15 @@ Exact keys pressed (in order)
 
 ![Image](P.png)
 
+* I used the ```git add``` to add changes in the working directory.
+* I used the ```git commit -m "update"``` to records changes.
+* I used the ```git push origin``` to upload the local repository content to a remote repository.
 
+Exact keys pressed (in order)
 
-
+1. *```<enter>```* (Executes the command)
+2. *```<enter>```* (Executes the command)
+3. *```<enter>```* (Executes the command)
 
 
 
