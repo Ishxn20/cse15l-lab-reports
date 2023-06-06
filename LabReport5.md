@@ -26,7 +26,7 @@ I believe the code inside the bash script is correct.
 
 ## TA Response:
 
-I understand your problem. You are making a very minor mistake.
+I understand your problem and frustration. You code in the grade.sh file seems to be correct. I believe you are making a very minor mistake.
 
 Even though your including the correct keyword ```bash```, you miss the file extension causing the bash script to not run!
 
