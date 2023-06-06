@@ -8,13 +8,13 @@ Terminal: VS code
 
 ## Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
 
-![]()
+![](e1.png)
 
 I'm unable to open the server on my web browser despite succesfully starting it on my terminal.
 
 ## Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
 
-![]()
+![](e2.png)
 
 On opening the link for my server, I'm constantly getting this error.
 
@@ -32,7 +32,7 @@ In the link provided, I noticed that I was simply missing the NumberServer.java 
 
 If didn't think thatthe server is unable to start if I didn't included this file.
 
-![]()
+![](e3.png)
 
 # Part 2 – Reflection
 
