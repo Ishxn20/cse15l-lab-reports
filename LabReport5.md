@@ -4,39 +4,57 @@
 
 Computer: Macbook Pro 
 
-Terminal: VS code
+Operating System: Ventura 13.0.1
+
+Terminal: VS code & Bash.
 
 ## Detail the symptom you're seeing. Be specific; include both what you're seeing and what you expected to see instead. Screenshots are great, copy-pasted terminal output is also great. Avoid saying “it doesn't work”.
 
-![](e1.png)
+I'm unable to run the list-examples-grader bash script to test my code.
 
-I'm unable to open the server on my web browser despite succesfully starting it on my terminal.
+It's producing the error: ```bash: grade: No such file or directory```
+
+![](f1.png)
 
 ## Detail the failure-inducing input and context. That might mean any or all of the command you're running, a test case, command-line arguments, working directory, even the last few commands you ran. Do your best to provide as much context as you can.
 
-![](e2.png)
+I'm including the bash keyword before the bash script file. I'm really confused as to what is going wrong :(
 
-On opening the link for my server, I'm constantly getting this error.
+I believe the code inside the bash script is correct.
+
+![](f2.png)
 
 ## TA Response:
 
-I understand your problem. You are making a very common mistake.
+I understand your problem. You are making a very minor mistake.
 
-Look at for exact command used to run a server at this link: [Link](https://ucsd-cse15l-s23.github.io/week/week2/)
+Even though your including the correct keyword ```bash```, you miss the file extension causing the bash script to not run!
 
-Do you notice anything different about what you have and what is there?
+Hope this helps!
 
 ## What Happened after TA's response?
 
-In the link provided, I noticed that I was simply missing the NumberServer.java at the end of your java command.
+Unfortunately, my code still isn't working. I'm running into a different problem now. On analyzing the error, it says that I'm missing some file.
 
-If didn't think that the server is unable to start if I didn't included this file.
+![](f3.png)
 
-![](e4.png)
+But from this photo, you can clearly see that I have included the grade.sh file. I don't understand what the problem is :(
 
-![Image](bro.png)
+# The Error
 
-Server successfully starting
+This link should give more insight into your error: [Link](https://ucsd-cse15l-s23.github.io/week/week6/)
+
+Do you notice anything different about what you have and what is there?
+
+Even though your syntax is correct now, your missing a repository that would have a java file that your bash script would run its tests on.
+
+The link provided above has a bunch of sample repositories you could try out and experiment with!
+
+Remember the full syntax would be ```bash grade.sh https://github.com/some-username/some-repo-name```
+
+Your sample output would like this:
+
+![](f4.png)
 
 # Part 2 – Reflection
 
