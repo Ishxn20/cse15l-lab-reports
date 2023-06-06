@@ -30,7 +30,7 @@ Do you notice anything different about what you have and what is there?
 
 In the link provided, I noticed that I was simply missing the NumberServer.java at the end of your java command.
 
-If didn't think thatthe server is unable to start if I didn't included this file.
+If didn't think that the server is unable to start if I didn't included this file.
 
 ![](e3.png)
 
