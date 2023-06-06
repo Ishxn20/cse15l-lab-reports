@@ -1,5 +1,7 @@
 ## Part 1 – Debugging Scenario
 
+1. 
+
 
 ## Part 2 – Reflection
 
