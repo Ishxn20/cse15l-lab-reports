@@ -34,9 +34,9 @@ If didn't think that the server is unable to start if I didn't included this fil
 
 ![](e3.png)
 
-## Server successfully starting
-
 ![Image](bro.png)
+
+Server successfully starting
 
 # Part 2 – Reflection
 
