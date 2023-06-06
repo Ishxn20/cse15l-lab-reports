@@ -22,7 +22,7 @@ On opening the link for my server, I'm constantly getting this error.
 
 I understand your problem. You are making a very common mistake.
 
-Look at for exact command used to run a server at this link: [](https://ucsd-cse15l-s23.github.io/week/week2/)
+Look at for exact command used to run a server at this link: [Link](https://ucsd-cse15l-s23.github.io/week/week2/)
 
 Do you notice anything different about what you have and what is there?
 
